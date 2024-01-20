@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\List_Entry.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\List_Entry.dir/objects.a @CMakeFiles\List_Entry.dir\objects1
+C:\MinGW\bin\mingw32-gcc.exe -g -Wl,--whole-archive CMakeFiles\List_Entry.dir/objects.a -Wl,--no-whole-archive -o List_Entry.exe -Wl,--out-implib,libList_Entry.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\List_Entry.dir\linkLibs.rsp
