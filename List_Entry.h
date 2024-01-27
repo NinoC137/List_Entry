@@ -6,6 +6,7 @@
 #define LIST_ENTRY_LIST_ENTRY_H
 
 #include "stdint.h"
+#include "stdio.h"
 
 /*****************************************************************************
  * 第一个参数: ptr是结构体中某个成员的地址
